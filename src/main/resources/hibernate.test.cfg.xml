@@ -18,6 +18,7 @@
         <mapping resource="TUser.hbm.xml"/>
 
         <class-cache class="com.hib.dbunit.example.domain.TUserImpl" usage="transactional"/>
+        <class-cache class="com.hib.dbunit.example.domain.xUser" usage="transactional"/>
 
     </session-factory>
 </hibernate-configuration>

@@ -10,4 +10,10 @@
 
         <property name="username" column="username" type="string" length="45"/>
     </class>
+    <class name="com.hib.dbunit.example.domain.xUser" table="xUser">
+        <id name="userGkey" column="gkey" type="java.lang.Long" unsaved-value="null">
+            <generator class="native"/>
+        </id>
+        <property name="userId" column="user_id" type="java.lang.String" length="12" unique="true"/>
+    </class>
 </hibernate-mapping>
