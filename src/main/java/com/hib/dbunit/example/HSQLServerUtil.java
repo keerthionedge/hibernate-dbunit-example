@@ -5,13 +5,6 @@ import org.hsqldb.Server;
 import org.hsqldb.ServerConfiguration;
 import org.hsqldb.persist.HsqlProperties;
 
-/**
- * Utility to start the HSQL server.
- *
- * @author Denis Pavlov
- * @since 1.0.0
- *
- */
 public final class HSQLServerUtil {
 
     private static final Logger LOG = Logger.getLogger(HSQLServerUtil.class);

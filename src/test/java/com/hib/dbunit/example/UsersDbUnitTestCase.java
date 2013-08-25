@@ -6,13 +6,6 @@ import org.dbunit.dataset.xml.FlatXmlDataSet;
 import org.hibernate.Transaction;
 import org.junit.Test;
 
-/**
- * .
- * <p/>
- * User: denispavlov
- * Date: May 6, 2012
- * Time: 10:37:37 AM
- */
 public class UsersDbUnitTestCase extends HibernateDbUnitTestCase {
 
 

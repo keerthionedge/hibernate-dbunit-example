@@ -12,13 +12,6 @@ import org.junit.Before;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
-/**
- * Base DbUnit Test case that initialises test database.
- *
- * @author Denis Pavlov
- * @since 1.0.0
- *
- */
 public abstract class HibernateDbUnitTestCase extends DBTestCase {
 
     private static final Logger LOG = LoggerFactory.getLogger(HibernateDbUnitTestCase.class);

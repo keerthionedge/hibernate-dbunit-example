@@ -4,13 +4,6 @@ import org.apache.log4j.Logger;
 import org.hibernate.SessionFactory;
 import org.hibernate.cfg.Configuration;
 
-/**
- * Utility class that provides basics hibernate initialization.
- *
- * @author Denis Pavlov
- * @since 1.0.0
- *
- */
 
 public final class HibernateUtils {
 

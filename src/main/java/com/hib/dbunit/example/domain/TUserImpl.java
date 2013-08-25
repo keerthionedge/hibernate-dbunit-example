@@ -1,12 +1,5 @@
 package com.hib.dbunit.example.domain;
 
-/**
- * .
- * <p/>
- * User: denispavlov
- * Date: May 6, 2012
- * Time: 10:20:13 AM
- */
 public class TUserImpl {
 
     private Long id;
