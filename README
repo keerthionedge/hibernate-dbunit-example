@@ -1,1 +1,2 @@
-This file was created by IntelliJ IDEA 12.1.4 for binding GitHub repository
+This Project uses HSQL In-Memory DB
+The data set is defined in XML and Read as FlatXmlDataSet
